@@ -1,24 +1,3 @@
-label: Mithraeum in the Baths of Mithras in Ostia
-attribution: Provided by Rita Gautschy
+label: Astronaut
 metadata:
-  Title: Mithraeum in the Baths of Mithras in Ostia
-  Description: This 3D model is a simplified version of the Mithraeum in the Baths of Mithras in Ostia. It is intended for teaching purposes. 
-  Course information: The 3D model was created during a class on 3D modeling for archaeologists taught at the University of Basel in the spring semester 2025. A very limited amount of time was spent to build the model to illustrate what is possible for beginners without any prior knowledge of the software Blender. The focus of the class was more on the creation of paradata, metadata, and of a IIIF manifest according to the current recommendations of the IIIF 3D TSG group than on delivering a final 3D model of good quality. Another important aim of this course was to show students how they can deploy and view their 3D model.
-  Object name: Mithraeum in the Baths of Mithras in Ostia
-  Object type: Mithraeum
-  Wikidata: https://www.wikidata.org/wiki/Q1939738
-  Wikipedia: https://it.wikipedia.org/wiki/Mitreo_delle_Terme_del_Mitra
-  Official website: https://www.ostiaantica.beniculturali.it/
-  Location: Ostia 
-  Location Detail: Regio I, Insula XVII
-  Location Geonames: https://www.geonames.org/8378691
-  Location Pleiades: https://pleiades.stoa.org/places/422995
-  Model Licence: <a href="https://creativecommons.org/licenses/by/4.0/deed.en">Attribution 4.0 International (CC BY)<a/>
-  Author Name: Rita Gautschy
-  Author Affiliation: University of Basel
-  Author ORCID: https://orcid.org/0000-0002-5470-8720
-  Used Software: Blender 4.3.2
-  Creator Name: Rita Gautschy
-  Creator Affiliation: University of Basel
-  Creation Time Span: 2025-02-15 — 2025-03-26
-  Paradata: <a href="https://...">Paradata of the Mithraeum in the Baths of Mithras in Ostia<a/> 
+  title: Why not!
